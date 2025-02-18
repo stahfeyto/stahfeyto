@@ -35,7 +35,7 @@ I am a **full-stack developer** with a focus on both web and mobile application 
 
 Here are some of my key projects that showcase my skills and dedication:
 
-- **[To-Do List App](https://github.com/stahfeyto/todo-list)**: A task management application with real-time synchronization, powered by Firebase.  
+- **[To-Do List App](https://github.com/stahfeyto/ToDo)**: A task management application with real-time synchronization, powered by Firebase.  
 - **[Music Player](https://github.com/stahfeyto/music-player)**: A Flutter-based music player app, seamlessly integrated with Firebase for cloud storage.  
 - **[Portfolio Website](https://github.com/stahfeyto/portfolio)**: A personal portfolio website that highlights my skills, projects, and achievements.
 
