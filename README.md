@@ -35,15 +35,15 @@ I am a **full-stack developer** with a strong background in web and mobile devel
 
 I have worked on a variety of projects, from simple web apps to full-fledged systems. You can check out some of them below:
 
-- [Project 1: To-Do List App](https://github.com/yourusername/todo-list) - A task manager application with real-time synchronization using Firebase.
-- [Project 2: Music Player](https://github.com/yourusername/music-player) - A Flutter-based music player integrated with Firebase for storage.
-- [Project 3: Portfolio Website](https://github.com/yourusername/portfolio) - A personal portfolio showcasing my skills and projects.
+- [Project 1: To-Do List App](https://github.com/stahfeyto/todo-list) - A task manager application with real-time synchronization using Firebase.
+- [Project 2: Music Player](https://github.com/stahfeyto/music-player) - A Flutter-based music player integrated with Firebase for storage.
+- [Project 3: Portfolio Website](https://github.com/stahfeyto/portfolio) - A personal portfolio showcasing my skills and projects.
 
 ## 🌱 Current Learning
 
 I am currently diving deeper into:
 - **React Native** for mobile development
-- **Machine Learning** with Python
+- **Power Bi** 
 - **Cloud-based solutions** with Firebase and AWS
 
 ## 📬 Contact Me
